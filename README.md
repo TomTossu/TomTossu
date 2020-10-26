@@ -6,11 +6,11 @@ I'm open on working with any kind of technology since I like to always keep lear
 
 ## Skills and Experience
 
-* ⚛ ReactJS
+* ⚛ React.JS
 * 📱 React Native
 * ☕ Java
 * 🗄️ SQL
-* 💻 HTML, CSS, JS
+* 💻 HTML, CSS, JavaScript
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TomTossu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tomas-sancheztossutti//)  
