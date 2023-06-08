@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Tomás
 #### Developer
-I'm a Computer Science student, passionate about everything that's related to IT and I'm constantly trying to keep in touch with the latest news.
+I am a Developer with 5 years of industry expertise, passionate about everything that's related to IT and I'm constantly trying to keep in touch with the latest news.
+
+My current focus lies primarily in React, while I have also gained valuable experience with Java and SQL in the past.
 
 I'm open on working with any kind of technology since I like to always keep learning new things and grow as a professional.
 
